@@ -53,7 +53,8 @@ Requirements:
     ```bash
     ./client
     ``` 
-    
+# todos:
+- [ ] switch to `epoll()`
 ## Useful resources
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [The Linux Programming Interface](https://man7.org/tlpi/)
